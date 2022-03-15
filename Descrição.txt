@@ -1,0 +1,1 @@
+conclusão das funções e configurações do registro de novos usuários, adicionando funcionalidade de busca, estilização
